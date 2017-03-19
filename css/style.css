@@ -1,0 +1,32 @@
+body{
+    margin:0px;
+    padding : 0px;
+    background-color:cadetblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 120%;
+}
+#main_page  {
+    margin : auto;
+    width:60%;
+    padding:40px;
+    background-color: white;
+}
+#head{
+    text-align: center;
+    float:right;
+}
+#head2{
+    text-align: left;
+}
+dt{
+    text-decoration: underline;
+    color:cadetblue;
+}
+dd iframe{
+    width:95%;
+    margin : auto;
+    height:350px;
+}
+a{
+    text-decoration: none;
+}

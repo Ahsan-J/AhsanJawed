@@ -1,0 +1,41 @@
+body{
+    /*margin:0px;*/
+    /*padding : 0px;*/
+    background-color:cadetblue;
+    /*font-family: 'Times New Roman', Times, serif;*/
+    font-size: 200%;
+}
+#main_page  {
+    /*margin : auto;*/
+    /*width:60%;*/
+    padding:40px;
+    background-color: white;
+}
+#head{
+    text-align: center;
+    float:right;
+}
+#head2{
+    text-align: left;
+}
+dt{
+    text-decoration: underline;
+    color:cadetblue;
+    
+}
+dd iframe{
+    width:95%;
+    margin : auto;
+    height:350px;
+}
+a{
+    text-decoration: none;
+}
+br{
+    clear:both;
+}
+#ImageSlider{
+    width:200px;
+    height:225px;
+    float:left;
+}
